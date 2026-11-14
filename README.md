@@ -9,7 +9,7 @@ ESP32 + MQ2 + DHT22 + FreeRTOS + MQTT
 ## Link bài nộp
 
 - **Wokwi:** https://wokwi.com/projects/480590968209775617
-- **Web:** https://trangnhunggg.github.io/Lab3_BaoChay_NguyenTrangNhung_N01/LAB3_NguyenTrangNhung_N01.html
+- **Web :** https://trangnhunggg.github.io/Lab3_BaoChay_NguyenTrangNhung_N01/LAB3_NguyenTrangNhung_N01.html
 - **Báo cáo:** [LAB3_NguyenTrangNhung_N01.docx](LAB3_NguyenTrangNhung_N01.docx)
 
 ## Mô tả
